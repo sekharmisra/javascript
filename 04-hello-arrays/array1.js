@@ -10,4 +10,5 @@ console.log(firstname[9])
 console.log(firstname.length)
 
 const arrayfirstname = Array.from(firstname)
+console.log(arrayfirstname)
 console.log(arrayfirstname.length)
