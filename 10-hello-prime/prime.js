@@ -1,6 +1,6 @@
 function isPrimeNumber(number){
-    for (let i=2; i < number; i++){        
-        let j = 0;
+    let j = 0;
+    for (let i=2; i < number; i++){       
         j++;
         if (number % i === 0){
             return {
